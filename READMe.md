@@ -2,7 +2,7 @@
 
 
 # Titel
-CarPay
+Car Pay
 
 # Slogan
 Be smart und zahl am Rad
