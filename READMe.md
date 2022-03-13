@@ -15,3 +15,4 @@ Michael Martin
 Felix Kunath
 Julia Schaible
 Chiara Seiler
+Jonas Dietsche
