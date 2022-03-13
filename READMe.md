@@ -5,7 +5,7 @@
 Car Pay
 
 # Slogan
-Be smart und zahl am Rad
+Be Smart und zahl am Rad
 
 
 # Kurzbeschreibung
