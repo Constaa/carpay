@@ -13,9 +13,11 @@ Car Pay ist ein Zahlungsdienstleister, welcher sich auf Fahrzeuge aller Art konz
 
 # Name des Teams und der einzelnen Teammitglieder
 
+Name: Car Pay
+
 Philipp Maucher
 Michael Martin
 Felix Kunath
-Julia Schaible
+Julian Schaible
 Chiara Seiler
 Jonas Dietsche
